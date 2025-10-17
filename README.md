@@ -1,5 +1,6 @@
 ## Oi me chamo Samuel 👋
 
+
 <div> 
   <a href="https://instagram.com/rafaballerini](https://www.instagram.com/samuel.valeriano.14?igsh=MTZkNWVqMml4M3QyaA==&utm_source=ig_contact_invite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -26,6 +27,7 @@ ____
 ## 📊 GitHub Stats
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelvaleriano&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvaleriano&show_icons=true&bg_color=00000000)
 
 <!--
 **samuelvaleriano/samuelvaleriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
