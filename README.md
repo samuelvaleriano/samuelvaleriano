@@ -15,6 +15,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samuelvaleriano/samuelvaleriano/output/github-contribution-grid-snake.svg">
 </picture>
 
+____
+
 ## ⚡ Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,11 +25,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvaleriano&show_icons=true&bg_color=00000000)
 ____
 ## 📊 GitHub Stats
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelvaleriano&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvaleriano&show_icons=true&bg_color=00000000)
+
 
 <!--
 **samuelvaleriano/samuelvaleriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
