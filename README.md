@@ -27,11 +27,11 @@ ____
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvaleriano&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samuelvaleriano&show_icons=true)
 ____
 ## 📊 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelvaleriano&show_icons=true&bg_color=00000000)
+![Samuel's GitHub stats](https://github-stats-extended.vercel.app/api/?username=samuelvaleriano&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Samuel%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 
 <!--
